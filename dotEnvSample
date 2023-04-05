@@ -1,0 +1,5 @@
+ATLAS_URI=mongodb+srv://TheCodingClimber:%23Valhalla1337@cluster0.ijubvcn.mongodb.net/?retryWrites=true&w=majority
+MONGO_DATABASE = blog_data
+PORT = 5001
+TOKEN_HEADER_KEY = ci_token_header_key
+JWT_SECRET_KEY = CodeImmersives20222
